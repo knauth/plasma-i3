@@ -1,3 +1,4 @@
+# WIP! Come back in a day or so.
 # Plasma 6 and i3: A Guide for 2024
 Tested on EndeavourOS. Intended for people with Linux experience but not i3 experience. Inspired by [this](https://github.com/heckelson/i3-and-kde-plasma) and [this](https://maxnatt.gitlab.io/posts/kde-plasma-with-i3wm/#kde-525-and-newer) but with more details and updated for Plasma 6.
 
